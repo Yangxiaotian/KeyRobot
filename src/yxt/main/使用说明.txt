@@ -1,0 +1,2 @@
+首次运行时，会在程序所在路径自动生成config.txt
+在config.txt里配置按键码（对照keycode.png），以英文状态下的逗号分隔
